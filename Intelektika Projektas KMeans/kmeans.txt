@@ -1,5 +1,3 @@
--------------------------------- CHATGPT DESCRIPTION:
-
 This code performs k-means clustering and generates various visualizations related to the clustering process. Here is a breakdown of the code:
 
 The code defines a function called centroids(K, b) that performs k-means clustering. It takes two arguments: K (the number of clusters) and b (a column name from the DataFrame).
